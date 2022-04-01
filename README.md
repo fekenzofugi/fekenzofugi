@@ -10,4 +10,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofugihara&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <img align="center" alt="Fernando-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img align="center" alt="Fernando-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg">
+<img align="center" alt="Fernando-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
