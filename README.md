@@ -2,7 +2,7 @@
 
 - Sou Fernando Fugihara
 - Hoje trabalho com back-end
-- Estudando C e C++
+- Estudando Python
 
 <div align="center">
   <a href="https://github.com/fernandofugihara">
