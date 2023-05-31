@@ -1,5 +1,3 @@
-### Bem Vindos!
+Fernando Fugihara
 
-- Sou Fernando Fugihara
-- Hoje trabalho com back-end
-- Estudando Python
+
