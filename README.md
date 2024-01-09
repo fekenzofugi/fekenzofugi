@@ -1,3 +1,2 @@
 Fernando Fugihara
-
-Programmer
+Studying C# and PostgreSQL
