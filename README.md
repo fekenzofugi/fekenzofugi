@@ -3,9 +3,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fekenzofugi&show_icons=true&theme=dark&line_height=33&include_all_commits=true"/>
    </a>
 
-   <a href="https://github.com/fekenzofugi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fekenzofugi&langs_count=100&theme=dark" />
-  </a> 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <p align="center">
    <a href="https://github.com/fekenzofugi">
