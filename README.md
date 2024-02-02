@@ -1,6 +1,4 @@
 <img align="right" width="38%" src="https://i.pinimg.com/originals/a8/df/85/a8df8535797ea7727c2942e6f84a6b5d.jpg"/>
-
-# Hey 
 I'm currently an undergraduate student of electrical enginnering and i like to code.
 
   <a href="https://github.com/fekenzofugi"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=fekenzofugi&theme=dark&title_color=ff3068?"></a>
