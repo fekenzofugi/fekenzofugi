@@ -30,6 +30,7 @@
   <a href="https://www.patreon.com/nezukobot"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
-<br/>
+### Most Used Languages 💻
 
-<p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fekenzofugi&layout=compact&theme=midnight-purple)](https://github.com/Akash1362000)
+
