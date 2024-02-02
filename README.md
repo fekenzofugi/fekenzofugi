@@ -1,4 +1,4 @@
-<img align="right" width="38%" src="https://4kwallpapers.com/images/wallpapers/astronaut-minimal-art-space-artwork-bored-astronaut-black-1440x2560-8015.jpg"/>
+<img align="right" width="38%" src="https://w0.peakpx.com/wallpaper/494/630/HD-wallpaper-black-hole-digital-astronaut-design-humor-illustration-space.jpg"/>
 
   <a href="https://github.com/fekenzofugi"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=fekenzofugi&theme=dark&title_color=ff3068?"></a>
   <a href="https://github.com/fekenzofugi"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=fekenzofugi&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
