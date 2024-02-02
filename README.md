@@ -14,6 +14,8 @@
 </p>
 
 ### Most Used Languages 💻
+<p align="right">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fekenzofugi&layout=compact&theme=midnight-purple)](https://github.com/Akash1362000)  
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fekenzofugi&layout=compact&theme=midnight-purple)](https://github.com/Akash1362000)
 
