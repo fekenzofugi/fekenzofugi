@@ -12,7 +12,11 @@
      <a><img width="100%" src="https://github-readme-stats.vercel.app/api?username=fekenzofugi&theme=radical&title_color=ff3068?"></a>
    </td>
   </tr>
+
+  <tr>
+
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&langs_count=100&theme=radical" />
+  </tr>
 </table>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fekenzofugi&layout=compact&theme=midnight-purple)](https://github.com/Akash1362000)  
 
 
