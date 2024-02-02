@@ -7,8 +7,6 @@
 
 <p align="left">
    <a href="https://github.com/sfugies">
-     <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?      username=fekenzofugi&repo=sfugies&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg">
+       <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?      username=fekenzofugi&repo=sfugies&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg">
     </a>
-
-  
 </p>
