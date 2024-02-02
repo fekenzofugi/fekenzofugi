@@ -58,19 +58,6 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer, pro
     <img alt="views" title="GitHub profile views" src="https://kounter.tk/badge/giingu?label=&color=333&style=for-the-badge&cntSuffix=%20Views"/></a>
 </p>
 
-## 🎮 Try pressing the buttons and come back down
-
-<div style="background:white;">
-<img src="https://toy.aoaoao.me/image" width="300"/> 
-
-
-<br><a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/up.png" width="35"/></a>
-<br><a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/left.png" width="35"/></a><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/right.png" width="35"/></a><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/B.png" width="35"/></a> <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/A.png" width="35"/></a>
-<br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/down.png" width="35"/></a>
-<br><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/select.png" height="35"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/start.png" height="35" /></a>
-  </div>
-
-
 <p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
