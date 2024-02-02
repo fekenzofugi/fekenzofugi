@@ -7,10 +7,5 @@
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fekenzofugi&theme=dark&line_height=33"/>
    </a>
 </p>
-<p align="right">
-   
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)   
-   
-</p>
 
 
